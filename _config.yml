@@ -11,7 +11,7 @@ title:            ModUni
 tagline:          'Searching for semantic universals in the modal domain'
 description:      'NWO project "Searching for semantic universals in the modal domain"'
 url:              http://wataruuegaki.com/modal-universals/
-baseurl:          /
+baseurl:          /modal-universals
 
 author:
   name:           'Wataru Uegaki'
