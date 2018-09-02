@@ -11,7 +11,7 @@ title:            ModUni
 tagline:          'A Jekyll theme'
 description:      'NWO project "Searching for semantic universals in the modal domain"'
 url:              http://wataruuegaki.com/modal-universals/
-baseurl:          /
+baseurl:          /hyde
 
 author:
   name:           'Wataru Uegaki'
