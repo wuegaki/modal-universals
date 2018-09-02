@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+# markdown:         redcarpet
 highlighter:      rouge
 
 # Permalinks
@@ -8,14 +8,14 @@ permalink:        pretty
 
 # Setup
 title:            ModUni
-tagline:          'A Jekyll theme'
+tagline:          'Searching for semantic universals in the modal domain'
 description:      'NWO project "Searching for semantic universals in the modal domain"'
 url:              http://wataruuegaki.com/modal-universals/
 baseurl:          /
 
 author:
   name:           'Wataru Uegaki'
-  url:            https://twitter.com/wataruu
+  url:            https://wataruuegaki.com
 
 paginate:         5
 
