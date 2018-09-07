@@ -13,7 +13,7 @@ in the first workshop.
 * **Date**: September, 2019
 * **Venue**: University of Konstanz
 
-## Scheduled attendees
+## Scheduled participants
 
 to be determined
 

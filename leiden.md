@@ -17,7 +17,7 @@ and frameworks for the forthcoming collaborations.
 	- 14 December: 9:00-13:00 Lipsius 147; 13:00-17:00 Lipsius 228
 	- 15 December: Lipsius 148
 
-## Scheduled attendees
+## Scheduled participants
 
 <!-- - Jenny Doetjes (Leiden) -->
 - Regine Eckhard (Konstanz)

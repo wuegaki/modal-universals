@@ -12,9 +12,10 @@ other logical vocabularies.
 ## Practical details
 
 * **Date**: March, 2021
+* **Call for papers**: Winter 2020
 * **Venue**: Institute of Logic, Language and Computation, University of Amsterdam
 
-## Scheduled attendees
+## Scheduled participants
 
 to be determined
 

@@ -4,7 +4,7 @@ title: Members
 order: 1
 ---
 
-The ModUni project involves the following research groups:
+The ModUni project involves the following research groups and institutes:
 
 - [**Leiden University Centre for Linguistics**](https://www.universiteitleiden.nl/en/humanities/leiden-university-centre-for-linguistics)
 	- Wataru Uegaki (project leader), Lisa Bylinina, Jenny Doetjes 
@@ -20,3 +20,5 @@ The ModUni project involves the following research groups:
 	- Floris Roelofsen, Alexander Cremers, Jakub Dotlacil
 - [**ILLC, University of Amsterdam, ERC group "Cognitive Semantics and Quantities"**](https://www.jakubszymanik.com/CoSaQ)
 	- Jakub Szymanik, Shane Steinert-Threlkeld. 
+
+  
