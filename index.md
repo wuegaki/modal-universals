@@ -3,7 +3,7 @@ layout: page
 title: Searching for semantic universals in the modal domain
 ---
 
-Welcome to the webpage of the NWO collaboration project "ModUni: Searching for semantic universals in the modal domain" (2018-2021). 
+Welcome to the webpage of the NWO collaboration project "ModUni: Searching for semantic universals in the modal domain" (2018-2021; NWO-IG.18.023). 
 <!-- This page contains general information about the project as well as details about the four workshops. The output of the project will be uploaded as they become available.  -->
 
 ## What is the ModUni project?
