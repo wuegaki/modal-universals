@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Members
+order: 1
 ---
 
 The ModUni project involves the following research groups:
