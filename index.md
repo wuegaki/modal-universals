@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NWO collaboration project "Searching for semantic universals in the modal domain"
+title: Searching for semantic universals in the modal domain
 ---
 
 Welcome to the webpage of the NWO collaboration project "Searching for semantic universals in the modal domain" (2018-2021). This page contains general information about the project as well as details about the four workshops. The output of the project will be uploaded 
