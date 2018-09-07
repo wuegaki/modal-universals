@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Test
-permalink: modal-universals/test
+permalink: modal-universals/test.html
 ---
 
 <p class="message">
