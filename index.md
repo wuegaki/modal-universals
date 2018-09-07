@@ -3,9 +3,10 @@ layout: page
 title: Searching for semantic universals in the modal domain
 ---
 
-Welcome to the webpage of the NWO collaboration project "Searching for semantic universals in the modal domain" (2018-2021). This page contains general information about the project as well as details about the four workshops. The output of the project will be uploaded as they become available. 
+Welcome to the webpage of the NWO collaboration project "Searching for semantic universals in the modal domain" (2018-2021). 
+<!-- This page contains general information about the project as well as details about the four workshops. The output of the project will be uploaded as they become available.  -->
 
-## Overview of the project
+## What is the ModUni project?
 
 Human languages across the world have a wide range of variations in their grammatical properties. But, is there any limit to such variations? Do languages share any significant common properties? The search for properties holding across languages, or *language universals*, is a fundamental goal in linguistics, as it offers a window into our shared linguistic ability as a human kind.
 
