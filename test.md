@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Test
+url: modal-universals/test
 ---
 
 <p class="message">
