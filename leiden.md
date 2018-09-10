@@ -21,6 +21,7 @@ collaborations.
 ## Scheduled participants
 
 <!-- - Jenny Doetjes (Leiden) -->
+- Jordan Chark (Potsdam)
 - Regine Eckhard (Konstanz)
 - Donka Farkas (UCSC)
 - Floris Roelofsen (ILLC, UvA)

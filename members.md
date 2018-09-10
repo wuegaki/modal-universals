@@ -11,7 +11,7 @@ The ModUni project involves the following research groups and institutes:
 - [**University of Konstanz, DFG project "Questions at the Interfaces"**](https://typo.uni-konstanz.de/questionsInterfaces)
 	- Maribel Romero, Regine Eckardt, Sven Lauer, Miriam Butt. 
 - [**University of Potsdam, DFG project "Variability in Language: Cognitive, Grammatical, and Social Aspects"**](https://www.uni-potsdam.de/sfb1287/index.html)
-	- Malte Zimmermann.
+	- Malte Zimmermann, Jordan Chark. 
 - [**Leibniz-Zentrum Allgemeine Sprachwissenschaft (ZAS) Berlin**](https://www.leibniz-zas.de)
 	- Uli Sauerland, Kazuko Yatsushiro, Patrick D. Elliott, Paul Marty.
 - [**University of California, Santa Cruz**](https://linguistics.ucsc.edu)
