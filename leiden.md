@@ -23,7 +23,7 @@ collaborations.
 <!-- - Jenny Doetjes (Leiden) -->
 - Jordan Chark (Potsdam)
 - Regine Eckhard (Konstanz)
-- Donka Farkas (UCSC)
+<!-- - Donka Farkas (UCSC) -->
 - Michela Ippolito (Toronto) (presenting a joint work with Donka Farkas)
 - Floris Roelofsen (ILLC, UvA)
 - Maribel Romero (Konstanz)
