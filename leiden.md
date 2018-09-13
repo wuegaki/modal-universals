@@ -5,11 +5,10 @@ order: 2
 ---
 
 In December 2018, we will kick-off the ModUni project with a workshop in
-Leiden. In this workshop, members present their existing research on the topic
-of modal and attitudinal lexical semantics, and discuss feasible
-cross-linguistic universals in this domain. Furthermore, the members will
-discuss the methodological standards and frameworks for the forthcoming
-collaborations.
+Leiden. In this workshop, members present their research on the topic of modal
+and attitudinal lexical semantics, and discuss feasible cross-linguistic
+universals in this domain. Furthermore, the members will discuss the
+methodological standards and frameworks for the forthcoming collaborations.
 
 ## Practical details
 
