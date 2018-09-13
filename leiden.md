@@ -24,6 +24,7 @@ collaborations.
 - Jordan Chark (Potsdam)
 - Regine Eckhard (Konstanz)
 - Donka Farkas (UCSC)
+- Michela Ippolito (Toronto) (presenting a joint work with Donka Farkas)
 - Floris Roelofsen (ILLC, UvA)
 - Maribel Romero (Konstanz)
 - Uli Sauerland (ZAS)
