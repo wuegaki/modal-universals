@@ -4,4 +4,4 @@ title: Output
 order: 6
 ---
 
-The Output of the ModUni project will be uploaded as they become available. 
+- Uegaki, Wataru and Floris Roelofsen. 2018. Do modals take propositions or sets of propositions? Evidence from Japanese *darou*. *Proceedings of SALT 28*. [[PDF](https://semanticsarchive.net/Archive/TkyZDFjY/paper.pdf)]
