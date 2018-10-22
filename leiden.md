@@ -19,8 +19,9 @@ methodological standards and frameworks for the forthcoming collaborations.
 
 ## Scheduled participants
 
-<!-- - Jenny Doetjes (Leiden) -->
+- Lisa Bylinina (Leiden)
 - Jordan Chark (Potsdam)
+- Jenny Doetjes (Leiden)
 - Regine Eckhard (Konstanz)
 <!-- - Donka Farkas (UCSC) -->
 - Michela Ippolito (Toronto) (presenting a joint work with Donka Farkas)
