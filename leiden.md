@@ -19,7 +19,7 @@ methodological standards and frameworks for the forthcoming collaborations.
 
 ## Scheduled participants
 
-- Lisa Bylinina (Leiden)
+- Lisa Bylinina (Leiden) 
 - Jordan Chark (Potsdam)
 - Jenny Doetjes (Leiden)
 - Regine Eckhard (Konstanz)
