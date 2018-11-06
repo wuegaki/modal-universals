@@ -13,7 +13,7 @@ methodological standards and frameworks for the forthcoming collaborations.
 ## Date and place
 
 * **Date**: 14-15 December, 2018
-* **Venue**: Leiden University 
+* **Venue**: [Leiden University Lipsius Building](https://www.universiteitleiden.nl/en/locations/lipsius-building)
 	- 14 December: 9:00-13:00 Lipsius 147; 13:00-17:00 Lipsius 228
 	- 15 December: Lipsius 148
 	
