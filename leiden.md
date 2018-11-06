@@ -23,7 +23,6 @@ methodological standards and frameworks for the forthcoming collaborations.
 - Jordan Chark (Potsdam)
 - Jenny Doetjes (Leiden)
 - Regine Eckhard (Konstanz)
-<!-- - Donka Farkas (UCSC) -->
 - Michela Ippolito (Toronto) (presenting a joint work with Donka Farkas)
 - Floris Roelofsen (ILLC, UvA)
 - Maribel Romero (Konstanz)
@@ -31,6 +30,21 @@ methodological standards and frameworks for the forthcoming collaborations.
 - Jakub Szymanik (ILLC, UvA)
 - Wataru Uegaki (Leiden)
 - Malte Zimmermann (Potsdam)
+
+## Program
+
+| time        	| presenter                                              	| title                                                                 	|
+|-------------	|--------------------------------------------------------	|-----------------------------------------------------------------------	|
+| 9:30-10:20  	| Wataru Uegaki (Leiden)                                 	| Constraints on the lexical semantics of question-embedding predicates 	|
+| 10:20-11:10 	| Floris Roelofsen (Amsterdam)                           	|                                                                       	|
+| 11:10-11:25 	| BREAK                                                  	|                                                                       	|
+| 11:25-12:15 	| Maribel Romero (Konstanz)                              	|                                                                       	|
+| 12:15-13:45 	| LUNCH                                                  	|                                                                       	|
+| 13:45-14:35 	| Malte Zimmermann (Potsdam)                             	|                                                                       	|
+| 14:35-15:25 	| Jordan Chark (Potsdam)                                 	| Issues in Modal Force: The View from Finnish                          	|
+| 15:25-15:45 	| BREAK                                                  	|                                                                       	|
+| 15:45-16:35 	| Regine Eckhard (Konstanz)                              	|                                                                       	|
+| 16:35-17:25 	| Michela Ippolito (Toronto) & Donka Farkas (Santa Cruz) 	|                                                                       	|
 
 
 
