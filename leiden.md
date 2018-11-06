@@ -16,21 +16,7 @@ methodological standards and frameworks for the forthcoming collaborations.
 * **Venue**: Leiden University 
 	- 14 December: 9:00-13:00 Lipsius 147; 13:00-17:00 Lipsius 228
 	- 15 December: Lipsius 148
-
-## Scheduled participants
-
-- Lisa Bylinina (Leiden)
-- Jordan Chark (Potsdam)
-- Jenny Doetjes (Leiden)
-- Regine Eckhard (Konstanz)
-- Michela Ippolito (Toronto) (presenting a joint work with Donka Farkas)
-- Floris Roelofsen (ILLC, UvA)
-- Maribel Romero (Konstanz)
-- Uli Sauerland (ZAS)
-- Jakub Szymanik (ILLC, UvA)
-- Wataru Uegaki (Leiden)
-- Malte Zimmermann (Potsdam)
-
+	
 ## Program
 
 ### 14 December (Fri)
@@ -48,8 +34,29 @@ methodological standards and frameworks for the forthcoming collaborations.
 | 15:45-16:35 	| Regine Eckhard (Konstanz)                              	|                                                                       	|
 | 16:35-17:25 	| Michela Ippolito (Toronto) & Donka Farkas (Santa Cruz) 	|                                                                       	|
 
+### 15 December (Sat)
+
+| time        	| presenter                                             	| title                                         	|
+|-------------	|-------------------------------------------------------	|-----------------------------------------------	|
+| 10:00-11:00 	| Jakub Szymanik & Shane Steinert-Threlkeld (Amsterdam) 	| Ease of learning explains semantic universals 	|
+| 11:00-11:15 	| BREAK                                                 	|                                               	|
+| 11:15-12:05 	| Uli Sauerland                                         	|                                               	|
+| 12:05-13:30 	| LUNCH                                                 	|                                               	|
+| 13:30-15:00 	| PROJECT MEETING                                       	|                                               	|
 
 
+## Scheduled participants
 
+- Lisa Bylinina (Leiden)
+- Jordan Chark (Potsdam)
+- Jenny Doetjes (Leiden)
+- Regine Eckhard (Konstanz)
+- Michela Ippolito (Toronto) (presenting a joint work with Donka Farkas)
+- Floris Roelofsen (ILLC, UvA)
+- Maribel Romero (Konstanz)
+- Uli Sauerland (ZAS)
+- Jakub Szymanik (ILLC, UvA)
+- Wataru Uegaki (Leiden)
+- Malte Zimmermann (Potsdam)
 
 
