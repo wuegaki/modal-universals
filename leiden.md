@@ -10,7 +10,7 @@ and attitudinal lexical semantics, and discuss feasible cross-linguistic
 universals in this domain. Furthermore, the members will discuss the
 methodological standards and frameworks for the forthcoming collaborations.
 
-## Practical details
+## Date and place
 
 * **Date**: 14-15 December, 2018
 * **Venue**: Leiden University 
