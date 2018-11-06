@@ -33,6 +33,8 @@ methodological standards and frameworks for the forthcoming collaborations.
 
 ## Program
 
+### 14 December (Fri)
+
 | time        	| presenter                                              	| title                                                                 	|
 |-------------	|--------------------------------------------------------	|-----------------------------------------------------------------------	|
 | 9:30-10:20  	| Wataru Uegaki (Leiden)                                 	| Constraints on the lexical semantics of question-embedding predicates 	|
