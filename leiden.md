@@ -25,25 +25,25 @@ methodological standards and frameworks for the forthcoming collaborations.
 |-------------	|--------------------------------------------------------	|-----------------------------------------------------------------------	|
 | 9:30-10:20  	| Wataru Uegaki (Leiden)                                 	| Constraints on the lexical semantics of question-embedding predicates 	|
 | 10:20-11:10 	| Floris Roelofsen (Amsterdam)                           	|                                                                       	|
-| 11:10-11:25 	| BREAK                                                  	|                                                                       	|
+| 11:10-11:25 	| *break*                                                  	|                                                                       	|
 | 11:25-12:15 	| Maribel Romero (Konstanz)                              	|                                                                       	|
-| 12:15-13:45 	| LUNCH                                                  	|                                                                       	|
+| 12:15-13:45 	| *lunch*                                                  	|                                                                       	|
 | 13:45-14:35 	| Malte Zimmermann (Potsdam)                             	|                                                                       	|
 | 14:35-15:25 	| Jordan Chark (Potsdam)                                 	| Issues in Modal Force: The View from Finnish                          	|
-| 15:25-15:45 	| BREAK                                                  	|                                                                       	|
+| 15:25-15:45 	| *break*                                                  	|                                                                       	|
 | 15:45-16:35 	| Regine Eckhard (Konstanz)                              	|                                                                       	|
 | 16:35-17:25 	| Michela Ippolito (Toronto) & Donka Farkas (Santa Cruz) 	|                                                                       	|
-| 17:30-        | RECEPTION @ [FACULTY CLUB](https://www.staff.universiteitleiden.nl/buildings-and-facilities/catering-and-events/faculty-club/faculty-club/humanities?cf=humanities) | |
+| 17:30-        | *reception @ [The faculty club](https://www.staff.universiteitleiden.nl/buildings-and-facilities/catering-and-events/faculty-club/faculty-club/humanities?cf=humanities)* | |
 
 ### 15 December (Sat)
 
 | time        	| presenter                                             	| title                                         	|
 |-------------	|-------------------------------------------------------	|-----------------------------------------------	|
 | 10:00-11:00 	| Jakub Szymanik & Shane Steinert-Threlkeld (Amsterdam) 	| Ease of learning explains semantic universals 	|
-| 11:00-11:15 	| BREAK                                                 	|                                               	|
-| 11:15-12:05 	| Uli Sauerland                                         	|                                               	|
-| 12:05-13:30 	| LUNCH                                                 	|                                               	|
-| 13:30-15:00 	| PROJECT MEETING                                       	|                                               	|
+| 11:00-11:15 	| *break*                                                 	|                                               	|
+| 11:15-12:05 	| Uli Sauerland (ZAS)                                        	|                                               	|
+| 12:05-13:30 	| *lunch*                                                 	|                                               	|
+| 13:30-15:00 	| *internal project meeting*                                       	|                                               	|
 
 
 ## Scheduled participants
