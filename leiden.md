@@ -33,6 +33,7 @@ methodological standards and frameworks for the forthcoming collaborations.
 | 15:25-15:45 	| BREAK                                                  	|                                                                       	|
 | 15:45-16:35 	| Regine Eckhard (Konstanz)                              	|                                                                       	|
 | 16:35-17:25 	| Michela Ippolito (Toronto) & Donka Farkas (Santa Cruz) 	|                                                                       	|
+| 17:30-        | RECEPTION @ [FACULTY CLUB](https://www.staff.universiteitleiden.nl/buildings-and-facilities/catering-and-events/faculty-club/faculty-club/humanities?cf=humanities) | |
 
 ### 15 December (Sat)
 
