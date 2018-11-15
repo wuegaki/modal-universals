@@ -10,7 +10,7 @@ in the first workshop.
 
 ## Practical details
 
-* **Date**: October, 2019
+* **Date**: 9-11 October, 2019
 * **Venue**: University of Konstanz
 
 ## Scheduled participants
