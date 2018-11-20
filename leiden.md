@@ -48,7 +48,7 @@ methodological standards and frameworks for the forthcoming collaborations.
 - Lisa Bylinina (Leiden)
 - Jordan Chark (Potsdam)
 - Jenny Doetjes (Leiden)
-- Regine Eckhard (Konstanz)
+<!-- - Regine Eckhard (Konstanz) -->
 - Michela Ippolito (Toronto) (presenting a joint work with Donka Farkas)
 - Floris Roelofsen (ILLC, UvA)
 - Maribel Romero (Konstanz)
