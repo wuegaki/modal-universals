@@ -24,7 +24,7 @@ methodological standards and frameworks for the forthcoming collaborations.
 | time        	| presenter                                              	| title                                                                 	|
 |-------------	|--------------------------------------------------------	|-----------------------------------------------------------------------	|
 | 9:30-10:20  	| Wataru Uegaki (Leiden)                                 	| Project Introduction + Constraints on the lexical semantics of question-embedding predicates 	|
-| 10:20-11:10 	| Floris Roelofsen (Amsterdam)                           	|                                                                       	|
+| 10:20-11:10 	| Floris Roelofsen (Amsterdam)                           	| (Selectional restrictions of clause-embedding predicates)                                                                   	|
 | 11:10-11:25 	| *break*                                                  	|                                                                       	|
 | 11:25-12:15 	| Maribel Romero (Konstanz)                              	|                                                                       	|
 | 12:15-14:00 	| *lunch*                                                  	|                                                                       	|
