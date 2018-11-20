@@ -31,7 +31,7 @@ methodological standards and frameworks for the forthcoming collaborations.
 | 14:00-14:50 	| Malte Zimmermann (Potsdam)                             	|                                                                       	|
 | 14:50-15:40 	| Jordan Chark (Potsdam)                                 	| Issues in Modal Force: The View from Finnish                          	|
 | 15:40-16:10 	| *break*                                                  	|                                                                       	|
-| 16:10-17:00 	| Michela Ippolito (Toronto) & Donka Farkas (Santa Cruz) 	|    Epistemic stance without epistemic modals                                                                   	|
+| 16:10-17:00 	| Michela Ippolito (Toronto)  	|    Epistemic stance without epistemic modals    (joint work with Donka Farkas)                                                               	|
 | 17:30-        | *reception @ [The faculty club](https://www.staff.universiteitleiden.nl/buildings-and-facilities/catering-and-events/faculty-club/faculty-club/humanities?cf=humanities)* | |
 
 ### 15 December (Sat)
