@@ -23,23 +23,23 @@ methodological standards and frameworks for the forthcoming collaborations.
 
 | time        	| presenter                                              	| title                                                                 	|
 |-------------	|--------------------------------------------------------	|-----------------------------------------------------------------------	|
-| 9:30-10:20  	| Wataru Uegaki (Leiden)                                 	| Project Introduction + [Constraints on the lexical semantics of question-embedding predicates](wataru) 	|
-| 10:20-11:10 	| Floris Roelofsen (Amsterdam) | On the selectional restrictions of clause-embedding predicates (joint work with Nadine Theiler and Maria Aloni)                                                      	|
+| 9:30-10:20  	| **Wataru Uegaki** (Leiden)                                 	| Project Introduction + [Constraints on the lexical semantics of question-embedding predicates](wataru) 	|
+| 10:20-11:10 	| **Floris Roelofsen** (Amsterdam) | On the selectional restrictions of clause-embedding predicates (joint work with **Nadine Theiler** and **Maria Aloni**)                                                      	|
 | 11:10-11:25 	| *break*                                                  	|                                                                       	|
-| 11:25-12:15 	| Maribel Romero (Konstanz)                              	|                                                                       	|
+| 11:25-12:15 	| **Maribel Romero** (Konstanz)                              	|                                                                       	|
 | 12:15-13:45 	| *lunch*                                                  	|                                                                       	|
-| 13:45-14:35 	| Malte Zimmermann (Potsdam)                             	|                                                                       	|
-| 14:35-15:25 	| Jordan Chark (Potsdam)                                 	| [Issues in Modal Force: The View from Finnish](jordan)                          	|
+| 13:45-14:35 	| **Malte Zimmermann** (Potsdam)                             	|                                                                       	|
+| 14:35-15:25 	| **Jordan Chark** (Potsdam)                                 	| [Issues in Modal Force: The View from Finnish](jordan)                          	|
 | 15:25-15:45 	| *break*                                                  	|                                                                       	|
-| 15:45-16:35   | Uli Sauerland (ZAS) | | 
-| 16:35-17:25 	| Michela Ippolito (Toronto)  	|    Epistemic stance without epistemic modals    (joint work with Donka Farkas)                                                               	|
+| 15:45-16:35   | **Uli Sauerland** (ZAS) | | 
+| 16:35-17:25 	| **Michela Ippolito** (Toronto)  	|    Epistemic stance without epistemic modals    (joint work with **Donka Farkas**)                                                               	|
 | 17:30-        | *reception @ [The faculty club](https://www.staff.universiteitleiden.nl/buildings-and-facilities/catering-and-events/faculty-club/faculty-club/humanities?cf=humanities)* | |
 
 ### 15 December (Sat)
 
 | time        	| presenter                                             	| title                                         	|
 |-------------	|-------------------------------------------------------	|-----------------------------------------------	|
-| 10:00-11:00 	| Jakub Szymanik & Shane Steinert-Threlkeld (Amsterdam) 	| [Ease of learning explains semantic universals](jakub-shane) 	|
+| 10:00-11:00 	| **Jakub Szymanik** & **Shane Steinert-Threlkeld** (Amsterdam) 	| [Ease of learning explains semantic universals](jakub-shane) 	|
 | 11:00-11:15 	| *break*                                                 	|                                               	|
 | 11:15-12:45 	| *internal project meeting*                                        	|                                               	|
 
