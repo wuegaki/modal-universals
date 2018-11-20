@@ -19,7 +19,7 @@ interrogative complement---semantically select for questions rather than
 propositions, based on a number of empirical observations, e.g., false-answer
 sensitivity of factive predicates (Theiler 2014, Theiler, Roelofsen & Aloni
 2018; cf. George 2011), interpretation of nominal complements (Uegaki 2016),
-behavior of Predicates of Relevance (Elliott, Klinedinst, Sudo \& Uegaki
+behavior of Predicates of Relevance (Elliott, Klinedinst, Sudo & Uegaki
 2017), and the interpretation of the Estonian verb *mõtlema* (Roberts 2018).
 
 However, there is also a possibility that the question-oriented semantics for
@@ -43,7 +43,7 @@ agenda of the ModUni project.
 
 ### References
 
-- Elliott, Klinedinst, Sudo \& Uegaki. 2017. Predicates of relevance and theories of question embedding. *Journal of Semantics* 34:547–54. 
+- Elliott, Klinedinst, Sudo & Uegaki. 2017. Predicates of relevance and theories of question embedding. *Journal of Semantics* 34:547–54. 
 - George, B.R. 2011. *Question-embedding and the semantics of answers*. PhD thesis. University of California, Los Angeles. 
 - Roberts, Tom. 2018. Responsive predicates are question-embedding: Evidence from Estonian. *Proceedings of Sinn und Bedeutung* 22. 271-288.
 - Spector, Benjamin & Paul Egré. 2015. A uniform semantics for embedded interrogatives: *an* answer, not necessarily *the* answer. *Synthese* 192:1729–84.
