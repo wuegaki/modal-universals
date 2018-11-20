@@ -27,11 +27,12 @@ methodological standards and frameworks for the forthcoming collaborations.
 | 10:20-11:10 	| Floris Roelofsen (Amsterdam)                           	| (Selectional restrictions of clause-embedding predicates)    (joint work with Nadine Theiler and Maria Aloni)                                                               	|
 | 11:10-11:25 	| *break*                                                  	|                                                                       	|
 | 11:25-12:15 	| Maribel Romero (Konstanz)                              	|                                                                       	|
-| 12:15-14:00 	| *lunch*                                                  	|                                                                       	|
-| 14:00-14:50 	| Malte Zimmermann (Potsdam)                             	|                                                                       	|
-| 14:50-15:40 	| Jordan Chark (Potsdam)                                 	| Issues in Modal Force: The View from Finnish                          	|
-| 15:40-16:10 	| *break*                                                  	|                                                                       	|
-| 16:10-17:00 	| Michela Ippolito (Toronto)  	|    Epistemic stance without epistemic modals    (joint work with Donka Farkas)                                                               	|
+| 12:15-13:45 	| *lunch*                                                  	|                                                                       	|
+| 13:45-14:35 	| Malte Zimmermann (Potsdam)                             	|                                                                       	|
+| 14:35-15:25 	| Jordan Chark (Potsdam)                                 	| Issues in Modal Force: The View from Finnish                          	|
+| 15:25-15:45 	| *break*                                                  	|                                                                       	|
+| 15:45-16:35   | Uli Sauerland (ZAS) | | 
+| 16:35-17:25 	| Michela Ippolito (Toronto)  	|    Epistemic stance without epistemic modals    (joint work with Donka Farkas)                                                               	|
 | 17:30-        | *reception @ [The faculty club](https://www.staff.universiteitleiden.nl/buildings-and-facilities/catering-and-events/faculty-club/faculty-club/humanities?cf=humanities)* | |
 
 ### 15 December (Sat)
@@ -40,10 +41,7 @@ methodological standards and frameworks for the forthcoming collaborations.
 |-------------	|-------------------------------------------------------	|-----------------------------------------------	|
 | 10:00-11:00 	| Jakub Szymanik & Shane Steinert-Threlkeld (Amsterdam) 	| Ease of learning explains semantic universals 	|
 | 11:00-11:15 	| *break*                                                 	|                                               	|
-| 11:15-12:05 	| Uli Sauerland (ZAS)                                        	|                                               	|
-| 12:05-13:30 	| *lunch*                                                 	|                                               	|
-| 13:30-15:00 	| *internal project meeting*                                       	|                                               	|
-
+| 11:15-12:45 	| *internal project meeting*                                        	|                                               	|
 
 ## Scheduled participants
 
