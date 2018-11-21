@@ -5,7 +5,7 @@ title: Jakub Szymanik & Shane Steinert-Threlkeld
 
 ## Presenters
 
-Jakub Szymanik & Shane Steinert-Threlkeld 
+Shane Steinert-Threlkeld & Jakub Szymanik
 
 ## Title
 
@@ -22,7 +22,11 @@ universals are easier to learn than those that are not. Thus, ease of learning
 can explain the presence of semantic universals in many different linguistic
 domains.
 
-References: This is a joint work with Shane Steinert-Threlkeld, see: 
-https://semanticsarchive.net/Archive/mQ2Y2Y2Z/LearnabilitySemanticUniversals.pdf
+### References
+
+- Steinert-Threlkeld, Shane & Jakub Szymanik. to appear. [Learnability and semantic universals](https://semanticsarchive.net/Archive/mQ2Y2Y2Z/LearnabilitySemanticUniversals.pdf). *Semantics & Pragmatics*.
+
+
+
 
 
