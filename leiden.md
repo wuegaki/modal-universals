@@ -39,9 +39,10 @@ methodological standards and frameworks for the forthcoming collaborations.
 
 | time        	| presenter                                             	| title                                         	|
 |-------------	|-------------------------------------------------------	|-----------------------------------------------	|
-| 10:00-11:00 	| **Shane Steinert-Threlkeld** & **Jakub Szymanik** (Amsterdam) 	| [Ease of learning explains semantic universals](jakub-shane) 	|
-| 11:00-11:15 	| *break*                                                 	|                                               	|
-| 11:15-12:45 	| *internal project meeting*                                        	|                                               	|
+| 9:15-10:15 	| **Shane Steinert-Threlkeld** & **Jakub Szymanik** (Amsterdam) 	| [Ease of learning explains semantic universals](jakub-shane) 	|
+| 10:15-10:30 	| *break*                                                 	|                                               	|
+| 10:30-12:00 	| *internal project meeting*                                        	|                                               	|
+
 
 ## Scheduled participants
 
