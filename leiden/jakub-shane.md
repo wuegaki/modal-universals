@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jakub Szymanik & Shane Steinert-Threlkeld 
+title: Shane Steinert-Threlkeld & Jakub Szymanik
 ---
 
 ## Presenters
