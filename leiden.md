@@ -10,8 +10,9 @@ and attitudinal lexical semantics, and discuss feasible cross-linguistic
 universals in this domain. Furthermore, the members will discuss the
 methodological standards and frameworks for the forthcoming collaborations.
 
-Everyone is welcome for the talks. Please register at the desk in front of
-Lipsius 147 (Friday morning). No registration fee is required.
+Everyone is welcome to attend the talks and the reception on Friday evening.
+Please register at the desk in front of Lipsius 147 on Friday morning. No
+registration fee is required.
 
 ## Date and place
 
