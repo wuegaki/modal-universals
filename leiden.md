@@ -28,7 +28,7 @@ methodological standards and frameworks for the forthcoming collaborations.
 | 11:10-11:25 	| *break*                                                  	|                                                                       	|
 | 11:25-12:15 	| **Maribel Romero** (Konstanz)                              	|                                                                       	|
 | 12:15-13:45 	| *lunch*                                                  	|                                                                       	|
-| 13:45-14:35 	| **Malte Zimmermann** (Potsdam)                             	|                                                                       	|
+| 13:45-14:35 	| **Malte Zimmermann** (Potsdam)                             	|  Modal Particles & Commitment Strength –The view from German 'schon'       	|
 | 14:35-15:25 	| **Jordan Chark** (Potsdam)                                 	| [Issues in Modal Force: The View from Finnish](jordan)                          	|
 | 15:25-15:45 	| *break*                                                  	|                                                                       	|
 | 15:45-16:35   | **Uli Sauerland** (ZAS) | | 
