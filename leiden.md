@@ -25,9 +25,8 @@ registration fee is required.
 
 ### 14 December (Fri)
 
-| time        	| presenter                                              	| title                                                                 	|
 |-------------	|--------------------------------------------------------	|-----------------------------------------------------------------------	|
-|               |                                    |   *chair: Lisa Bylinina*                   |
+|               | **Session 1**                                   |   *chair: Lisa Bylinina*                   |
 | 9:30-10:20  	| **Wataru Uegaki** (Leiden)                                 	| Project Introduction + [Constraints on the lexical semantics of question-embedding predicates](wataru) 	|
 | 10:20-11:10 	| **Floris Roelofsen** (Amsterdam) | On the selectional restrictions of clause-embedding predicates (joint work with **Nadine Theiler** and **Maria Aloni**)                                                      	|
 | 11:10-11:25 	| *break*                                                  	|                                                                       	|
