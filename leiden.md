@@ -52,12 +52,13 @@ registration fee is required.
 | 10:30-12:00 	| *internal project meeting*                                        	|                                               	|
 
 
+
 <!-- ## Scheduled participants
 
 - Lisa Bylinina (Leiden)
 - Jordan Chark (Potsdam)
 - Jenny Doetjes (Leiden)
-<!-- - Regine Eckhard (Konstanz) -->
+- Regine Eckhard (Konstanz) 
 - Michela Ippolito (Toronto) (presenting a joint work with Donka Farkas)
 - Floris Roelofsen (ILLC, UvA)
 - Maribel Romero (Konstanz)
