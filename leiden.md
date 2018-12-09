@@ -46,7 +46,7 @@ registration fee is required.
 
 | time        	| presenter                                             	| title                                         	|
 |-------------	|-------------------------------------------------------	|-----------------------------------------------	|
-|               |     | *chair: Floris Roelofsen* |
+|               |     | *chair: Alexandre Cremers* |
 | 9:15-10:15 	| **Shane Steinert-Threlkeld** & **Jakub Szymanik** (Amsterdam) 	| [Ease of learning explains semantic universals](jakub-shane) 	|
 | 10:15-10:30 	| *break*                                                 	|                                               	|
 | 10:30-12:00 	| *internal project meeting*                                        	|                                               	|
