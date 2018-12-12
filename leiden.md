@@ -40,6 +40,7 @@ registration fee is required.
 | 15:45-16:35   | **Uli Sauerland** (ZAS) | | 
 | 16:35-17:25 	| **Michela Ippolito** (Toronto)  	|    Epistemic stance without epistemic modals    (joint work with **Donka Farkas**)                                                               	|
 | 17:30-        |  | *reception @ [The faculty club](https://www.staff.universiteitleiden.nl/buildings-and-facilities/catering-and-events/faculty-club/faculty-club/humanities?cf=humanities)* |
+| 19:00-        |  | *dinner @ [The Sumatra House](http://sumatrahouse.com)* |
 
 ### 15 December (Sat)
 
