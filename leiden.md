@@ -30,7 +30,7 @@ registration fee is required.
 | 9:30-10:20  	| **Wataru Uegaki** (Leiden)                                 	| Project Introduction + [Constraints on the lexical semantics of question-embedding predicates](wataru) 	|
 | 10:20-11:10 	| **Floris Roelofsen** (Amsterdam) | On the selectional restrictions of clause-embedding predicates (joint work with **Nadine Theiler** and **Maria Aloni**)                                                      	|
 | 11:10-11:25 	|                                                   	|      *break*                                                                 	|
-| 11:25-12:15 	| **Maribel Romero** (Konstanz)                              	|                                                                       	|
+| 11:25-12:15 	| **Maribel Romero** (Konstanz)                              	|   Counterfactual biscuit conditionals: Exploring the role of temporal and mood morphology	(joint work with **Eva Csipak**) |
 | 12:15-13:45 	|                                                   	|    *lunch*                                                                   	|
 |               | **Session 2**                     | *chair: Nadine Theiler*         |
 | 13:45-14:35 	| **Malte Zimmermann** (Potsdam)                             	|  Modal Particles & Commitment Strength –The view from German 'schon'       	|
