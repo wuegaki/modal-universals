@@ -27,17 +27,17 @@ registration fee is required.
 
 |-------------	|--------------------------------------------------------	|-----------------------------------------------------------------------	|
 |               | **Session 1**                                   |   *chair: Lisa Bylinina*                   |
-| 9:30-10:20  	| **Wataru Uegaki** (Leiden)                                 	| Project Introduction + [Constraints on the lexical semantics of question-embedding predicates](wataru) 	|
-| 10:20-11:10 	| **Floris Roelofsen** (Amsterdam) | On the selectional restrictions of clause-embedding predicates (joint work with **Nadine Theiler** and **Maria Aloni**)                                                      	|
+| 9:30-10:20  	| **Wataru Uegaki** (Leiden)                                 	| Project Introduction + [Constraints on the lexical semantics of question-embedding predicates](wataru.pdf) 	|
+| 10:20-11:10 	| **Floris Roelofsen** (Amsterdam) | [On the selectional restrictions of clause-embedding predicates](https://semanticsarchive.net/Archive/jQxOTBjZ/slides.pdf) (joint work with **Nadine Theiler** and **Maria Aloni**)                                                      	|
 | 11:10-11:25 	|                                                   	|      *break*                                                                 	|
-| 11:25-12:15 	| **Maribel Romero** (Konstanz)                              	|   Counterfactual biscuit conditionals: Exploring the role of temporal and mood morphology	(joint work with **Eva Csipak**) |
+| 11:25-12:15 	| **Maribel Romero** (Konstanz)                              	|   [Counterfactual biscuit conditionals: Exploring the role of temporal and mood morphology	(joint work with **Eva Csipak**)](maribel.pdf) |
 | 12:15-13:45 	|                                                   	|    *lunch*                                                                   	|
 |               | **Session 2**                     | *chair: Nadine Theiler*         |
 | 13:45-14:35 	| **Malte Zimmermann** (Potsdam)                             	|  Modal Particles & Commitment Strength –The view from German 'schon'       	|
 | 14:35-15:25 	| **Jordan Chark** (Potsdam)                                 	| [Issues in Modal Force: The View from Finnish](jordan)                          	|
 | 15:25-15:45 	|                                                   	|       *break*                                                                	|
 |               | **Session 3**  | *chair: Jakub Dotlačil*| 
-| 15:45-16:35   | **Uli Sauerland** (ZAS) | | 
+| 15:45-16:35   | **Uli Sauerland** (ZAS) | Forbidding 'forbidden': A feasible universal | 
 | 16:35-17:25 	| **Michela Ippolito** (Toronto)  	|    Epistemic stance without epistemic modals    (joint work with **Donka Farkas**)                                                               	|
 | 17:30-        |  | *reception @ [The faculty club](https://www.staff.universiteitleiden.nl/buildings-and-facilities/catering-and-events/faculty-club/faculty-club/humanities?cf=humanities)* |
 | 19:00-        |  | *dinner @ [The Sumatra House](http://sumatrahouse.com)* |
@@ -47,7 +47,7 @@ registration fee is required.
 
 |-------------	|-------------------------------------------------------	|-----------------------------------------------	|
 |               |  **Session 4**   |  |
-| 9:15-10:15 	| **Shane Steinert-Threlkeld** & **Jakub Szymanik** (Amsterdam) 	| [Ease of learning explains semantic universals](jakub-shane) 	|
+| 9:15-10:15 	| **Shane Steinert-Threlkeld** & **Jakub Szymanik** (Amsterdam) 	| [Ease of learning explains semantic universals](jakub.pdf) 	|
 | 10:15-10:30 	|                                                  	|    *break*                                           	|
 | 10:30-12:00 	| **internal project meeting**                                        	|                                               	|
 
