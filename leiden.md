@@ -28,7 +28,7 @@ registration fee is required.
 |-------------	|--------------------------------------------------------	|-----------------------------------------------------------------------	|
 |               | **Session 1**                                   |   *chair: Lisa Bylinina*                   |
 | 9:30-10:20  	| **Wataru Uegaki** (Leiden)                                 	| [Project Introduction + Constraints on the lexical semantics of question-embedding predicates](wataru.pdf) 	|
-| 10:20-11:10 	| **Floris Roelofsen** (Amsterdam) | [On the selectional restrictions of clause-embedding predicates (joint work with **Maria Aloni**, **Ivano Ciardelli** & **Nadina Theiler**)](https://semanticsarchive.net/Archive/jQxOTBjZ/slides.pdf)                                                       	|
+| 10:20-11:10 	| **Floris Roelofsen** (Amsterdam) | [On the selectional restrictions of clause-embedding predicates (joint work with **Maria Aloni**, **Ivano Ciardelli** & **Nadine Theiler**)](https://semanticsarchive.net/Archive/jQxOTBjZ/slides.pdf)                                                       	|
 | 11:10-11:25 	|                                                   	|      *break*                                                                 	|
 | 11:25-12:15 	| **Maribel Romero** (Konstanz)                              	|   [Counterfactual biscuit conditionals: Exploring the role of temporal and mood morphology	(joint work with **Eva Csipak**)](maribel.pdf) |
 | 12:15-13:45 	|                                                   	|    *lunch*                                                                   	|
