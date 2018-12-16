@@ -11,7 +11,7 @@ semantics of modal and attitudinal lexical semantics.
 
 ## Practical details
 
-* **Date**: March, 2020
+* **Date**: March 30-31st, 2020
 * **Call for papers**: Fall 2019
 * **Venue**: Leibniz-Zentrum Allgemeine Sprachwissenschaft 
 
