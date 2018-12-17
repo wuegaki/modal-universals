@@ -33,7 +33,7 @@ registration fee is required.
 | 11:25-12:15 	| **Maribel Romero** (Konstanz)                              	|   [Counterfactual biscuit conditionals: Exploring the role of temporal and mood morphology	(joint work with **Eva Csipak**)](maribel.pdf) |
 | 12:15-13:45 	|                                                   	|    *lunch*                                                                   	|
 |               | **Session 2**                     | *chair: Nadine Theiler*         |
-| 13:45-14:35 	| **Malte Zimmermann** (Potsdam)                             	|  Modal Particles & Commitment Strength –The view from German 'schon'       	|
+| 13:45-14:35 	| **Malte Zimmermann** (Potsdam)                             	|  [Modal Particles & Commitment Strength –The view from German 'schon'](malte.pdf)       	|
 | 14:35-15:25 	| **Jordan Chark** (Potsdam)                                 	| [Issues in Modal Force: The View from Finnish](jordan)                          	|
 | 15:25-15:45 	|                                                   	|       *break*                                                                	|
 |               | **Session 3**  | *chair: Jakub Dotlačil*| 
