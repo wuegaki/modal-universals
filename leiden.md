@@ -34,7 +34,7 @@ registration fee is required.
 | 12:15-13:45 	|                                                   	|    *lunch*                                                                   	|
 |               | **Session 2**                     | *chair: Nadine Theiler*         |
 | 13:45-14:35 	| **Malte Zimmermann** (Potsdam)                             	|  [Modal Particles & Commitment Strength –The view from German 'schon'](malte.pdf)       	|
-| 14:35-15:25 	| **Jordan Chark** (Potsdam)                                 	| [Issues in Modal Force: The View from Finnish](jordan)                          	|
+| 14:35-15:25 	| **Jordan Chark** (Potsdam)                                 	| [Issues in Modal Force: The View from Finnish](chark.pdf)                          	|
 | 15:25-15:45 	|                                                   	|       *break*                                                                	|
 |               | **Session 3**  | *chair: Jakub Dotlačil*| 
 | 15:45-16:35   | **Uli Sauerland** (ZAS) | [Forbidding 'forbidden': A feasible crosslinguistic universal?](uli.pdf) | 
