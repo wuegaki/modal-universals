@@ -13,12 +13,18 @@ order: 3
 
 The workshop consists of public talks as well as an internal meeting 
 where project members discuss the progress on the following three subprojects:
-  1. **Epistemics: strategies to express epistemic stance**
+  1. **Strategies to express epistemic stance**
      - What kind of lexical and grammatical markings (e.g., modal auxiliaries, tense) are used to express an epistemic stance?
      - What is the exact semantic implication of the marking? How is it compared to epistemic possibility, necessity, weak necessity and likelihood modal etc.
-    - subproject lead: Malte Zimmermann
-  - cross-linguistic universals in the possible combinations of semantic properties in attitudinal predicates, and their relation to selectional restrictions (lead: Floris Roelofsen + Wataru Uegaki)
-  - cross-linguistic universals and variation in the licensing conditions for tense and mood marking in embedded context (lead: Maribel Romero)
+     - subproject lead: Malte Zimmermann
+  2. **Attitudes and Selection:** 
+     - Are there cross-linguistic universals in the possible combinations of semantic properties within attitudinal predicates? 
+     - Are there cross-linguistic tendencies in the correlation between semantic properties of attitudinal predicates and their selectional restrictions? 
+     - subproject lead: Floris Roelofsen + Wataru Uegaki
+  3. **Mood and tense marking in the embedded context** 
+     - What are the conditions that license indicative and subjunctive mood in the embedded context cross-linguistically? 
+     - What are the conditions that govern the tense marking in the embedded context? 
+     - subprojectlead: Maribel Romero
 
 ## Confirmed presenters for the public component
 
