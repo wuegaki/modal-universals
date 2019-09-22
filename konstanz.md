@@ -24,7 +24,7 @@ where project members discuss the progress on the following three subprojects:
   3. **Mood and tense marking in the embedded context** 
      - What are the conditions that license indicative and subjunctive mood in the embedded context cross-linguistically? 
      - What are the conditions that govern the tense marking in the embedded context? 
-     - subprojectlead: Maribel Romero
+     - subproject lead: Maribel Romero
 
 ## Confirmed presenters for the public component
 
