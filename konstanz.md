@@ -23,7 +23,6 @@ where project members discuss the progress on the following three subprojects:
 - Regine Eckardt
 - Todor Koev & Maryam Mohammadi
 - Natasha Korotokova (presenting a joint work with Pranav Anand)
-- Floris Roelofsen
 - Jakub Szymanik
 - Wataru Uegaki
 
