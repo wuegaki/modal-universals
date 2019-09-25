@@ -13,7 +13,7 @@ order: 3
 
 The workshop consists of public talks as well as an internal meeting 
 where project members discuss the progress on the following three subprojects:
-  1. **Strategies to express epistemic stance** (subproject lead: Malte Zimmermann)
+  1. **Cross-linguistic variation and universals in the markings of epistemic stance** (subproject lead: Malte Zimmermann)
   2. **Attitudes and Selection:** (subproject lead: Floris Roelofsen + Wataru Uegaki)
   3. **Mood and tense marking in the embedded context** (subproject lead: Maribel Romero)
 
