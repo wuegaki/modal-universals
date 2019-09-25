@@ -17,14 +17,38 @@ where project members discuss the progress on the following three subprojects:
   2. **Attitudes and Selection:** (subproject lead: Floris Roelofsen + Wataru Uegaki)
   3. **Mood and tense marking in the embedded context** (subproject lead: Maribel Romero)
 
-## Confirmed presenters for the public component
+## Program for the public sessions: Wednesday October 9, 2019
 
-- Kajsa Djarv
-- Regine Eckardt
-- Todor Koev & Maryam Mohammadi
-- Natasha Korotokova (presenting a joint work with Pranav Anand)
-- Jakub Szymanik
-- Wataru Uegaki
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|     8:30    |                                                                Registration, coffee                                                                |
+|     8:50    |                                                                  Opening remarks                                                                   |
+|     9-10    |                             **Regine Eckardt**: Evidentials, modals and modal analyses for non-modal words (tentative)                             |
+|    10-11    |                            **Jakub Szymanik**: Explaining Semantic Universals: Learnability, Evolution, and Complexity                             |
+|   11-11:30  |                                                                    COFFEE BREAK                                                                    |
+| 11:30-12:30 |                                **Todor Koev & Maryam Mohammadi**: Strong and weak readings of *believe* (tentative)                                |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 12:30-14    | LUNCH                                                                                                                                              |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 14-15       | **Kajsa Djärv**: Why knowing me is different from believing me: entailment and argument-structure asymmetries across factive and non-factive verbs |
+| 15-16       | **Natasha Korotkova & Pranav Anand**:   Epistemics under *find*                                                                                    |
+| 16-16:30    | COFFEE BREAK                                                                                                                                       |
+| 16:30-17:30 | **Wataru Uegaki**:   Experimental investigations into the semantic nature of the selectional restriction of attitude predicates                    |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 19:30       | WORKSHOP DINNER                                                                                                                                    |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+
+## Participants
+
+- Kajsa Djarv (Konstanz)
+- Regine Eckardt (Konstanz)
+- Todor Koev (Konstanz)
+- Natasha Korotokova (Konstanz)
+- Maryam Mohammadi (Konstanz)
+- Floris Roelofsen (ILLC, Amsterdam)
+- Maribel Romero (Konstanz)
+- Jakub Szymanik (ILLC, Amsterdam)
+- Wataru Uegaki (Edinburgh)
+- Malte Zimmermann (Potsdam)
 
 ## Local organizers
 
