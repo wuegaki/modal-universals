@@ -45,10 +45,10 @@ where project members discuss the progress on the following three subprojects:
 
 ## Participants
 
-- Kajsa Djarv (Konstanz)
+- Kajsa Djärv (Konstanz)
 - Regine Eckardt (Konstanz)
 - Todor Koev (Konstanz)
-- Natasha Korotokova (Konstanz)
+- Natasha Korotkova (Konstanz)
 - Maryam Mohammadi (Konstanz)
 - Floris Roelofsen (ILLC, Amsterdam)
 - Maribel Romero (Konstanz)
