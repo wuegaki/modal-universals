@@ -26,10 +26,10 @@ where project members discuss the progress on the following three subprojects:
 | 8:50        | Opening remarks                                                                             |
 | 9-10        | **Regine Eckardt**: Evidentials, modals and modal analyses for non-modal words (tentative)  |
 | 10-11       | **Jakub Szymanik**: Explaining Semantic Universals: Learnability, Evolution, and Complexity |
-| 11-11:30    | *coffee break*                                                                                |
+| 11-11:30    | *coffee break*                                                                              |
 | 11:30-12:30 | **Todor Koev & Maryam Mohammadi**: Strong and weak readings of *believe* (tentative)        |
 |-------------|---------------------------------------------------------------------------------------------|
-| 12:30-14    | *lunch*                                                                                       |
+| 12:30-14    | *lunch*                                                                                     |
 |-------------|---------------------------------------------------------------------------------------------|
 
 |-------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -40,7 +40,7 @@ where project members discuss the progress on the following three subprojects:
 | 16-16:30    | *coffee break*                                                                                                                                     |
 | 16:30-17:30 | **Wataru Uegaki**:   Experimental investigations into the semantic nature of the selectional restriction of attitude predicates                    |
 |-------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| 19:30       | WORKSHOP DINNER                                                                                                                                    |
+| 19:30       | *workshop dinner*                                                                                                                                   |
 |-------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Participants
