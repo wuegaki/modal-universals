@@ -29,18 +29,17 @@ where project members discuss the progress on the following three subprojects:
 | 11-11:30    | *coffee break*                                                                              |
 | 11:30-12:30 | **Todor Koev & Maryam Mohammadi**: Strong and weak readings of *believe* (tentative)        |
 |-------------|---------------------------------------------------------------------------------------------|
-| 12:30-14    | *lunch*                                                                                     |
+| 12:30-15    | *lunch*                                                                                     |
 |-------------|---------------------------------------------------------------------------------------------|
 
 |-------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 |     time    |                                                                 AFTERNOON SESSION                                                                  |
 |-------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| 14-15       | **Kajsa Djärv**: Why knowing me is different from believing me: entailment and argument-structure asymmetries across factive and non-factive verbs |
-| 15-16       | **Natasha Korotkova & Pranav Anand**:   Epistemics under *find*                                                                                    |
+| 15-16       | **Kajsa Djärv**: Why knowing me is different from believing me: entailment and argument-structure asymmetries across factive and non-factive verbs |
 | 16-16:30    | *coffee break*                                                                                                                                     |
 | 16:30-17:30 | **Wataru Uegaki**:   Experimental investigations into the semantic nature of the selectional restriction of attitude predicates                    |
 |-------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| 19:30       | *workshop dinner*                                                                                                                                   |
+| 19:30       | *workshop dinner*                                                                                                                                  |
 |-------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Participants
