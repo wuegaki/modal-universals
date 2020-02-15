@@ -4,8 +4,8 @@ title: ModUni3 @ Berlin GLOW 43
 order: 4
 ---
 
-We will hold the third installment of the ModUni workshop as the GLOW43 semantics workshop 
-'Semantic Universals in the Modal and Attitudinal Domain', with Lisa Matthewson as the invited speaker. 
+We will hold the third installment of the ModUni workshop as [the GLOW43 semantics workshop 
+'Semantic Universals in the Modal and Attitudinal Domain'](https://glowlinguistics.org/43/workshops/semantic-universals/), with Lisa Matthewson as the invited speaker. 
 
 ## Practical details
 
