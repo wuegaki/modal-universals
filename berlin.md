@@ -1,24 +1,19 @@
 ---
 layout: page
-title: ModUni3 @ Berlin
+title: ModUni3 @ Berlin GLOW 43
 order: 4
 ---
 
-In March 2020, we will hold the third workshop of the ModUni project. In this
-workshop, members make final reports on the collaborations. In addition, the
-workshop will invite presentations related to the topic of cross-linguistic
-semantics of modal and attitudinal lexical semantics. 
+We will hold the third installment of the ModUni workshop as the GLOW43 semantics workshop 
+'Semantic Universals in the Modal and Attitudinal Domain', with Lisa Matthewson as the invited speaker. 
 
 ## Practical details
 
-* **Date**: March 30-31st, 2020
-* **Call for papers**: Fall 2019
-* **Venue**: Leibniz-Zentrum Allgemeine Sprachwissenschaft 
-
-## Scheduled participants
-
-to be determined
-
+* **Date:** March 31st, 2020
+<!--* **Call for papers**: Fall 2019-->
+* **Venue:** Humboldt-Universität zu Berlin (Dorotheenstraße 24, North Wing, Floor 2, Room 1.103)
+* **Invited Speaker:** Lisa Matthewson (UBC)
+* **Program**: Please see [the workshop page](https://glowlinguistics.org/43/workshops/semantic-universals/) within the GLOW site. 
 
 
 
