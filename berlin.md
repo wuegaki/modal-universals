@@ -10,7 +10,6 @@ We will hold the third installment of the ModUni workshop as the GLOW43 semantic
 ## Practical details
 
 * **Date:** March 31st, 2020
-<!--* **Call for papers**: Fall 2019-->
 * **Venue:** Humboldt-Universität zu Berlin (Dorotheenstraße 24, North Wing, Floor 2, Room 1.103)
 * **Invited Speaker:** Lisa Matthewson (UBC)
 * **Program**: Please see [the workshop page](https://glowlinguistics.org/43/workshops/semantic-universals/) within the GLOW site. 
